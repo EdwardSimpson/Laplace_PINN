@@ -1,1 +1,1 @@
-This project is a Physics Inspired Neural Network, based on Laplaces equation. It uses a 5 layer neural network to attempt to predict Laplace equation based on a random set of values.
+This project is a Physics Inspired Neural Network, based on Laplaces equation. It uses a 5 layer neural network to attempt to predict Laplace equation, based on a random set of data.
